@@ -63,8 +63,8 @@ Chưa đề cập...
 
 #### b. Ví dụ:
 - Dưới đây là trò chơi "Đua thuyền", và ta sẽ xem kết quả nếu áp dụng thuật toán với:
-	- Ưu tiên thời gian hoàn thành: <br><iframe width="730" height="411" src="https://www.youtube.com/embed/8ZfPefdt5UU" title="Coast Runners - Game preview / gameplay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	- Ưu tiên số điểm: <br><iframe width="730" height="411" src="https://www.youtube.com/embed/tlOIHko8ySg" title="CoastRunners 7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	- Ưu tiên thời gian hoàn thành: <br> <iframe width="730" height="411" src="https://www.youtube.com/embed/8ZfPefdt5UU" title="Coast Runners - Game preview / gameplay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	- Ưu tiên số điểm: <br> <iframe width="730" height="411" src="https://www.youtube.com/embed/tlOIHko8ySg" title="CoastRunners 7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Phần 3: Deep Learning
 Chưa hiểu lắm...
